@@ -12,3 +12,5 @@ to the gyepű of the Merchant Duchies.
 > TODO
 > "_Taba el-Ibara peremére, a Sheral hegységtöl a Kereskedö Hercegségek gyepéiig húzódó sivatag mélyébe értek_"
 > Talan mar tul sokszor olvastam el ezt a mondatot, de hogy ertek a melyere, ha a peremen voltak?
+
+The logs rattled this far on muleback, and the ones seeking warmth had been carried by nags - although most of them would indubitably pull a knife if anyone else had called their mount that.
