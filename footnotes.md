@@ -22,7 +22,23 @@
 
 [N] The name of the empire is "_Krán_", which is pronounced similar to "_Kraan_", and the exclamation here is "_Kránra_" (an expletive) that literally means to "_To Kraan_".
 
-[N] No clue how to translate this. The expression "_hazug a májad_" seems to be specific to the world of Ynev, and I never came across it elsewhere in Hungarian. Online searches always result in the Hungarian book as well.
+[N] No clue how to translate this. The expression "_hazug a májad_" seems to be specific to the world of Ynev, and I never came across it elsewhere in Hungarian. Online searches always result in the Hungarian book as well.  
+**Update**: As it turns out, this is a nod towards the Hungarian translation of Shakespeare's Hamlet by János Arany:
+
+> ```text
+> Fricskázza orrom’? s mondja, hogy hazug
+> A májam, a tüdöm? Ki teszi meg? Hah!
+> ```
+https://mek.oszk.hu/04500/04592/html/magyar.htm
+
+The corresponding English lines:
+
+> ```text
+> Tweaks me by the nose? gives me the lie i' the throat,
+> As deep as to the lungs? who does me this?
+> Ha!
+> ```
+http://shakespeare.mit.edu/hamlet/full.html
 
 [N] Making up geographical adjectives as I go. (Is this the right way to say it?) The city's name is Hergol, and "_Hergolean_" rhymes with "_herculean_" which (to me at least) has positive connotations. but Hergol is anything but, hence the word "_Hergolese_".
 
