@@ -56,3 +56,9 @@ http://shakespeare.mit.edu/hamlet/full.html
 > in a direct and unambiguous way, often indicating criticism or displeasure.
 
 [20] The Hungarian name of the place is "_Abaszisz_" so probably the closest English equivalent would be "_Abassiss_", and chose "_Abassissene_" as its [demonym](https://en.wikipedia.org/wiki/Demonym). What would be a more suitable one?
+
+[N] Capitalized "_midnight_" because the original was too. Couldn't find the right equivalent for archaic "_Éjközép_", and the closest in meaning (and length) was "_midnight_", but it isn't even close in awesomeness.
+
+[N] "_sívóhomok_" is the archaic synonym for "_futóhomok_", which is "_quicksand_" in English. Again, couldn't find another version for it, but learned that ["quick" in "_quicksand_" supposed to mean "alive"](https://english.stackexchange.com/questions/62115/why-is-quicksand-named-so-if-you-get-sucked-in-so-slowly). Just adding the meaning of ["sívó"](https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/s-4893A/sivo-49758/) as well.
+
+[N] "_beezüstözni_" literally means "_to coat with silver_", but that wouldn't exactly work here, and couldn't come up with anything better at the moment.
