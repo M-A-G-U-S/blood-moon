@@ -20,9 +20,9 @@
 
 [10] What is the proper grammar here?
 
-[N] The name of the empire is "_Krán_", which is pronounced similar to "_Kraan_", and the exclamation here is "_Kránra_" (an expletive) that literally means to "_To Kraan_".
+[11] The name of the empire is "_Krán_", which is pronounced similar to "_Kraan_", and the exclamation here is "_Kránra_" (an expletive) that literally means to "_To Kraan_".
 
-[N] No clue how to translate this. The expression "_hazug a májad_" seems to be specific to the world of Ynev, and I never came across it elsewhere in Hungarian. Online searches always result in the Hungarian book as well.  
+[12] No clue how to translate this. The expression "_hazug a májad_" seems to be specific to the world of Ynev, and I never came across it elsewhere in Hungarian. Online searches always result in the Hungarian book as well.  
 **Update**: As it turns out, this is a nod towards the Hungarian translation of Shakespeare's Hamlet by János Arany:
 
 > ```text
@@ -40,10 +40,19 @@ The corresponding English lines:
 > ```
 http://shakespeare.mit.edu/hamlet/full.html
 
-[N] Making up geographical adjectives as I go. (Is this the right way to say it?) The city's name is Hergol, and "_Hergolean_" rhymes with "_herculean_" which (to me at least) has positive connotations. but Hergol is anything but, hence the word "_Hergolese_".
+[13] Making up geographical adjectives as I go. (Is this the right way to say it?) The city's name is Hergol, and "_Hergolean_" rhymes with "_herculean_" which (to me at least) has positive connotations. but Hergol is anything but, hence the word "_Hergolese_".
 
-[N] Used "_brute_" here initially, because I didn't want to write "_creature_" again, but settled on "_thing_" in the end, as it would probably come up in a heated conversation more organically. As a sidenote, I love the Hungarian word in the original, "_jószág_", because it just as perfectly describes a mythical creature as a mere animal. I think, the word "_szerzet_" would have been another good fit here.
+[14] Used "_brute_" here initially, because I didn't want to write "_creature_" again, but settled on "_thing_" in the end, as it would probably come up in a heated conversation more organically. As a sidenote, I love the Hungarian word in the original, "_jószág_", because it just as perfectly describes a mythical creature as a mere animal. I think, the word "_szerzet_" would have been another good fit here.
 
-[N] Another word would've been "_compatriot_", but I haven't seen it used much.
+[15] Another word would've been "_compatriot_", but I haven't seen it used much.
 
-[N] After some research, this seems to be the correct way to say "_akiket szolgál_", but will keep an eye out.
+[16] After some research, this seems to be the correct way to say "_akiket szolgál_", but will keep an eye out.
+
+[17] "_orvtámadás_" means "_stealth attack_" with negative connotations, and it is the perfect phrase to use for an assassin, but "_taking it by surprise_" seemed a better choice.
+
+[18] Translated "_rongyos_" as raggedy, but what about "_An Arel priest, clothes in tatters,_".
+
+[19] This almost sounds like a pun, but "_pointedly_" works both literally and figuratively. From the dictionary:
+> in a direct and unambiguous way, often indicating criticism or displeasure.
+
+[20] The Hungarian name of the place is "_Abaszisz_" so probably the closest English equivalent would be "_Abassiss_", and chose "_Abassissene_" as its [demonym](https://en.wikipedia.org/wiki/Demonym). What would be a more suitable one?
