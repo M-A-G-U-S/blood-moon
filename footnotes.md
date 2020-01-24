@@ -62,3 +62,15 @@ http://shakespeare.mit.edu/hamlet/full.html
 [N] "_sívóhomok_" is the archaic synonym for "_futóhomok_", which is "_quicksand_" in English. Again, couldn't find another version for it, but learned that ["quick" in "_quicksand_" supposed to mean "alive"](https://english.stackexchange.com/questions/62115/why-is-quicksand-named-so-if-you-get-sucked-in-so-slowly). Just adding the meaning of ["sívó"](https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/s-4893A/sivo-49758/) as well.
 
 [N] "_beezüstözni_" literally means "_to coat with silver_", but that wouldn't exactly work here, and couldn't come up with anything better at the moment.
+
+[N] "_Silence!_" would be more accurate here, but I believe "_Shut up!_" is more fitting to the character.
+
+[N] "_vigyorra ránduló ajakkal_" would best be translated with "_lips curling into grins_", but "_rándul_" means to "_twitch_", and I like that image of them nervously trying to smile (with their nerves are kind of shot anyway).
+
+[N] This should probably be "_djad_", but I don't like it written like that.
+
+[N] This is probably grammatically incorrect.
+
+[N] "Cocked" may be better.
+
+[N] Or "_joker_" perhaps?

@@ -15,5 +15,23 @@ Those present waited in rapt silence, all eyes fixed on the eastern horizon, whe
 
 "One day", whispered the Arel-priest with a chilling smile, while lowering the dagger, "Those living like rats will die like rats. One day..."
 
-"Shut up!", cut in the one with the scarred face. "Someone's coming!"
+"Shut up!"<sup>N</sup>, cut in the one with the scarred face. "Someone's coming!"
+
+A dozen bolted to their feet, scurried for their weapons with muffled gasps - only to lower them moments later with lips twitching into grins<sup>N</sup>.
+
+"It's the bard", said a stocky dzsad<sup>N</sup>. "The halfwit."
+
+"It's him alright", the warlock said with a nod. "Where could he have been this long?"
+
+"He was singin' maybe", remarked the assassin.
+
+"We would've heard that though. But then, why would singin' be the thing he does the same as everyone else with his numskull?" The compactly built dzsad watched him approach, amused.
+
+"Bard, c'mere! Sit with us!" The halfwit got to the edge of the campfire's halo. There he sat on his heels, and started studying the footprints completely absorbed.
+
+"Rest assured,", tossed the words the so far silent tracker, "every single one of those are ours; the horses don't dare coming this close, and you'll struggle to find any other living creature around here... All of them made a run for it a long time ago, lest they be in the vicinity of the temple<sup>N</sup>."
+
+The bard was still crouching, only his head was tilted to one side<sup>N</sup> as if eavesdropping.
+
+"Are you deaf?", barked the tracker. He couldn't stand this guy. Too tall, and too broad-shouldered for his taste; on the rare occasions he did open his mouth, he talked with a maddening northern accent. What's more, he dressed in fine clothes, and rode a majestic horse like one of those toffs. The tracker, being a practical man, couldn't wrap his head around why El Hamed's grand vizier would send along a comedian<sup>N</sup> against the priest of Themes...
 
