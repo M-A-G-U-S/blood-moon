@@ -33,5 +33,12 @@ A dozen bolted to their feet, scurried for their weapons with muffled gasps - on
 
 The bard was still crouching, only his head was tilted to one side<sup>N</sup> as if eavesdropping.
 
-"Are you deaf?", barked the tracker. He couldn't stand this guy. Too tall, and too broad-shouldered for his taste; on the rare occasions he did open his mouth, he talked with a maddening northern accent. What's more, he dressed in fine clothes, and rode a majestic horse like one of those toffs. The tracker, being a practical man, couldn't wrap his head around why El Hamed's grand vizier would send along a comedian<sup>N</sup> against the priest of Themes...
+"Are you deaf?", barked the tracker. He couldn't stand this guy. Too tall, and too broad-shouldered for his taste; on the rare occasions he did open his mouth, he talked with a maddening northern accent. What's more, he dressed in fine clothes, and rode a majestic horse like one of those toffs. The tracker, being a practical man, couldn't wrap his head around why El Hamed's grand vizier would send along a comedian<sup>N</sup> against the priests of Themes... Truth be told, they all had mulled over at one point whether it would be better if they got rid of him, but the tales about the magical powers of the bards put them on guard. "Or maybe you don't trust my skills you smartass?"
+
+"Leave him alone!", guffawed the dzsad. "Can'tcha see he's teasing you?"
+
+The dimwit slowly straightened up, stepped closer to the people huddling, and falteringly looked for a place among them. He was made handsome, yet seemingly, the gods, to whom 
+proud
+fejtartás - holding of his head
+            demeanor?
 
