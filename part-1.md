@@ -11,15 +11,15 @@ A raggedy Arel-priest<sup>18</sup> spat out pointedly<sup>19</sup> upon hearing 
 
 "Wait!", hissed someone. "Wait! It wasn't a spell! Amhe Ramun will stoke the Blue Flames ere long!"
 
-Those present waited in rapt silence, all eyes fixed on the eastern horizon, where the second celestial companion of this world emerged in a radiant aquamarine halo. Its face dispersed the Midnight<sup>N</sup> gloom at once, covering the quicksand<sup>N</sup> in silver sheen<sup>N</sup>.
+Those present waited in rapt silence, all eyes fixed on the eastern horizon, where the second celestial companion of this world emerged in a radiant aquamarine halo. Its face dispersed the Midnight<sup>21</sup> gloom at once, covering the quicksand<sup>22</sup> in silver sheen<sup>23</sup>.
 
 "One day", whispered the Arel-priest with a chilling smile, while lowering the dagger, "Those living like rats will die like rats. One day..."
 
-"Shut up!"<sup>N</sup>, cut in the one with the scarred face. "Someone's coming!"
+"Shut up!"<sup>24</sup>, cut in the one with the scarred face. "Someone's coming!"
 
-A dozen bolted to their feet, scurried for their weapons with muffled gasps - only to lower them moments later with lips twitching into grins<sup>N</sup>.
+A dozen bolted to their feet, scurried for their weapons with muffled gasps - only to lower them moments later with lips twitching into grins<sup>25</sup>.
 
-"It's the bard", said a stocky dzsad<sup>N</sup>. "The halfwit."
+"It's the bard", said a stocky dzsad<sup>26</sup>. "The halfwit."
 
 "It's him alright", the warlock said with a nod. "Where could he have been this long?"
 
@@ -29,15 +29,17 @@ A dozen bolted to their feet, scurried for their weapons with muffled gasps - on
 
 "Bard, c'mere! Sit with us!" The halfwit got to the edge of the campfire's halo. There he sat on his heels, and started studying the footprints completely absorbed.
 
-"Rest assured,", tossed the words the so far silent tracker, "every single one of those are ours; the horses don't dare coming this close, and you'll struggle to find any other living creature around here... All of them made a run for it a long time ago, lest they be in the vicinity of the temple<sup>N</sup>."
+"Rest assured,", tossed the words the so far silent tracker, "every single one of those are ours; the horses don't dare coming this close, and you'll struggle to find any other living creature around here... All of them made a run for it a long time ago, lest they be in the vicinity of the temple<sup>27</sup>."
 
-The bard was still crouching, only his head was tilted to one side<sup>N</sup> as if eavesdropping.
+The bard was still crouching, only his head was tilted to one side<sup>28</sup> as if eavesdropping.
 
-"Are you deaf?", barked the tracker. He couldn't stand this guy. Too tall, and too broad-shouldered for his taste; on the rare occasions he did open his mouth, he talked with a maddening northern accent. What's more, he dressed in fine clothes, and rode a majestic horse like one of those toffs. The tracker, being a practical man, couldn't wrap his head around why El Hamed's grand vizier would send along a comedian<sup>N</sup> against the priests of Themes... Truth be told, they all had mulled over at one point whether it would be better if they got rid of him, but the tales about the magical powers of the bards put them on guard. "Or maybe you don't trust my skills you smartass?"
+"Are you deaf?", barked the tracker. He couldn't stand this guy. Too tall, and too broad-shouldered for his taste; on the rare occasions he did open his mouth, he talked with a maddening northern accent. What's more, he dressed in fine clothes, and rode a majestic horse like one of those toffs. The tracker, being a practical man, couldn't wrap his head around why El Hamed's grand vizier would send along a comedian<sup>29</sup> against the priests of Themes... Truth be told, they all had mulled over at one point whether it would be better if they got rid of him, but the tales about the magical powers of the bards put them on guard. "Or maybe you don't trust my skills you smartass?"
 
 "Leave him alone!", guffawed the dzsad. "Can'tcha see he's teasing you?"
 
-Slowly, the dimwit straightened up, stepped closer to the huddled up group, and falteringly looked for a place among them. He was made handsome, yet seemingly the gods, who were responsible for his even features, gray eyes, and proud posture<sup>N</sup>, deemed him undeserving of these gifts. A nerve on his left cheek - perhaps since childhood - would spasmodically tense up, or start to twitch now and then. Oftentimes his lips would curl up in a strange, lopsided smile, and at such occasions, without a doubt in his attempts to preserve dignity, even his motions grew hesitant. He would waver now and again but it appeared that only years of experience spent in great halls is keeping him being saved (<strike>keeps saving him</strike>) from falling<sup>N</sup> - that he was continually able to stay on his feet was even more vexing for the observer. Never speaking about his past, the bard's affliction remained a popular topic of conjecture; horse riding accident, a jealous dame's hired thugs, or some sort of poison is to blame for his misfortune?
+Slowly, the dimwit straightened up, stepped closer to the huddled up group, and falteringly looked for a place among them. He was made handsome, yet seemingly the gods, who were responsible for his even features, gray eyes, and proud posture<sup>30</sup>, deemed him undeserving of these gifts. A nerve on his left cheek - perhaps since childhood - would spasmodically tense up, or start to twitch now and then. Oftentimes his lips would curl up in a strange, lopsided smile, and at such occasions, without a doubt in his attempts to preserve dignity, even his motions grew hesitant. He would waver now and again but it appeared that only years of experience spent in great halls is keeping him being saved (<strike>keeps saving him</strike>) from falling<sup>31</sup> - that he was continually able to stay on his feet was even more vexing for the observer. Never speaking about his past, the bard's affliction remained a popular topic of speculation<sup>32</sup>; was it a horse riding accident, the hired thugs of a jealous dame, or some sort of poison that is to blame for his misfortune? In addition to taking exertions lying down, not ever did he pick a fight, albeit some of the crude jokes would justify drawing blood even<sup>33</sup>. Every so often he moved aside<sup>34</sup> - belike<sup>35</sup>, to beseech<sup>36</sup>his god, to do penance for one of his atrocious sins, or, to tune his eight-string lyre.
+No one ever saw him play.
 
-
+booze-fueled
+camaraderie
 

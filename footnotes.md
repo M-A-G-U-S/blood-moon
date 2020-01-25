@@ -57,24 +57,34 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [20] The Hungarian name of the place is "_Abaszisz_" so probably the closest English equivalent would be "_Abassiss_", and chose "_Abassissene_" as its [demonym](https://en.wikipedia.org/wiki/Demonym). What would be a more suitable one?
 
-[N] Capitalized "_midnight_" because the original was too. Couldn't find the right equivalent for archaic "_Éjközép_", and the closest in meaning (and length) was "_midnight_", but it isn't even close in awesomeness.
+[21] Capitalized "_midnight_" because the original was too. Couldn't find the right equivalent for archaic "_Éjközép_", and the closest in meaning (and length) was "_midnight_", but it isn't even close in awesomeness.
 
-[N] "_sívóhomok_" is the archaic synonym for "_futóhomok_", which is "_quicksand_" in English. Again, couldn't find another version for it, but learned that ["quick" in "_quicksand_" supposed to mean "alive"](https://english.stackexchange.com/questions/62115/why-is-quicksand-named-so-if-you-get-sucked-in-so-slowly). Just adding the meaning of ["sívó"](https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/s-4893A/sivo-49758/) as well.
+[22] "_sívóhomok_" is the archaic synonym for "_futóhomok_", which is "_quicksand_" in English. Again, couldn't find another version for it, but learned that ["quick" in "_quicksand_" supposed to mean "alive"](https://english.stackexchange.com/questions/62115/why-is-quicksand-named-so-if-you-get-sucked-in-so-slowly). Just adding the meaning of ["sívó"](https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/s-4893A/sivo-49758/) as well.
 
-[N] "_beezüstözni_" literally means "_to coat with silver_", but that wouldn't exactly work here, and couldn't come up with anything better at the moment.
+[23] "_beezüstözni_" literally means "_to coat with silver_", but that wouldn't exactly work here, and couldn't come up with anything better at the moment.
 
-[N] "_Silence!_" would be more accurate here, but I believe "_Shut up!_" is more fitting to the character.
+[24] "_Silence!_" would be more accurate here, but I believe "_Shut up!_" is more fitting to the character.
 
-[N] "_vigyorra ránduló ajakkal_" would best be translated with "_lips curling into grins_", but "_rándul_" means to "_twitch_", and I like that image of them nervously trying to smile (with their nerves are kind of shot anyway).
+[25] "_vigyorra ránduló ajakkal_" would best be translated with "_lips curling into grins_", but "_rándul_" means to "_twitch_", and I like that image of them nervously trying to smile (with their nerves are kind of shot anyway).
 
-[N] This should probably be "_djad_", but I don't like it written like that.
+[26] This should probably be "_djad_", but I don't like it written like that.
 
-[N] This is probably grammatically incorrect.
+[27] This is probably grammatically incorrect.
 
-[N] "Cocked" may be better.
+[28] "Cocked" may be better.
 
-[N] Or "_joker_" perhaps?
+[29] Or "_joker_" perhaps?
 
-[N] Couldn't find a better word for "_fejtartás_".
+[30] Couldn't find a better word for "_fejtartás_".
 
-[N] There's something fishy about the tenses here, but can't figure out what would be best.
+[31] There's something fishy about the tenses here, but can't figure out what would be best.
+
+[32] "_Conjecture_" was here originally, but it sounded more academic, and the topic is also about common folks.
+
+[33] Again, something with the tenses.
+
+[34] Originally wrote "_moved away to seek privacy_" to translate "_félrevonult_", but it seemed to be belaboring the point. Was also thinking about "_sequestered himself_" but for me it appears to be on another level.
+
+[35] Archaic form of "_perhaps_" and "_maybe_". "_Perchance_" was another candidate, but there have been to many times I couldn't deliver a good equivalent of the antique Hungarian word.
+
+[36] After finding the super old-fashioned "_belike_", "_pray_" sounded too common. The entire sentence will probably sound like [Joey's "aorta pump" speech](https://www.youtube.com/watch?v=LcM4zWiikKQ). Also, with the beginning of the sentence being so lofty, the contrast of the last clause really delivers.
