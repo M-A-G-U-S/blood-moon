@@ -37,8 +37,7 @@ The bard was still crouching, only his head was tilted to one side<sup>N</sup> a
 
 "Leave him alone!", guffawed the dzsad. "Can'tcha see he's teasing you?"
 
-The dimwit slowly straightened up, stepped closer to the people huddling, and falteringly looked for a place among them. He was made handsome, yet seemingly, the gods, to whom 
-proud
-fejtartás - holding of his head
-            demeanor?
+Slowly, the dimwit straightened up, stepped closer to the huddled up group, and falteringly looked for a place among them. He was made handsome, yet seemingly the gods, who were responsible for his even features, gray eyes, and proud posture<sup>N</sup>, deemed him undeserving of these gifts. A nerve on his left cheek - perhaps since childhood - would spasmodically tense up, or start to twitch now and then. Oftentimes his lips would curl up in a strange, lopsided smile, and at such occasions, without a doubt in his attempts to preserve dignity, even his motions grew hesitant. He would waver now and again but it appeared that only years of experience spent in great halls is keeping him being saved (<strike>keeps saving him</strike>) from falling<sup>N</sup> - that he was continually able to stay on his feet was even more vexing for the observer.
+
+
 

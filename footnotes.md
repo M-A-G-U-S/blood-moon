@@ -74,3 +74,7 @@ http://shakespeare.mit.edu/hamlet/full.html
 [N] "Cocked" may be better.
 
 [N] Or "_joker_" perhaps?
+
+[N] Couldn't find a better word for "_fejtartás_".
+
+[N] There's something fishy about the tenses here, but can't figure out what would be best.
