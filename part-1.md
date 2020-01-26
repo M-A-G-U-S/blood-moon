@@ -50,5 +50,13 @@ The grey-eyed man grinned, perplexed, causing that certain nerve twitch once on 
 
 "We were talking about the manase", continued the killer in a confidential tone. "Some say it flies like a bird, others that it survives underwater, but it is not similar to a lion, but more akin to an octopus... What do you think, eh?"
 
-"Manase..." - echoed the bard, his orotund voice resonant with strange<sup>N</sup> strains.
+"Manase..." - echoed the bard, his resonant<sup>N</sup> voice rich with peculiar<sup>N</sup> timbres.<sup>N</sup>
+
+Scar-face's nape began to prickle but the feeling has passed before it truly started to annoy him.
+
+"Once, a long time ago, learned a song of demure virgins", he confessed, with eyes downcast, "and about the, this..."
+
+The Hergolese gave up with a wave of his hand. The toff surely had his own brandy reserves, otherwise he wouldn't mistake the manase with a unicorn.
+
+"Git to rest!", he burst out in a raw growl. "I's gonna be a hard day tomorrow, and I ain't no baby-sitter to get your share!" The bard spun around without a word, started off wobbly steps
 

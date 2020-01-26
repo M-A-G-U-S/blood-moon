@@ -95,11 +95,11 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [N] "_Pálinka_" is a type of Hungarian fruit brandy with its own specific distillation process. Could've used "_brandy_", but this way it's more exotic, and I like that it refers to the Hungarian origins of the novel. Also, pálinka is not even close to brandy or vodka; when you try one, you'll know. (Was also thinking about using the phrase "_fence-ripper_", "_kerítésszaggató_" in Hungarian, but decided to put it off until the next time.)
 
-[N] Futottak még (i.e., were also in the ring): "_odd_", and "_peculiar_", but decided on "_strange_", mostly because of the alliteration.
+[N] Initially put "_orotund_", not "_sonorous_", because there is a character in this world called Sonor, but it has negative connotations, but the latter sounds cooler. In the end, abandoned both of them as the Hungarian original didn't only mentioned that his voice was rich (see next note), no mentions of pitch or other qualities.
 
-[N]
+[N] Based on word meanings, "_eldritch_" or "_uncanny_" would have been the best fit but they are not neutral but more negative (or is this just me?).
 
-[N]
+[N] This was the hardest to translate so far because the original is beautifully written, shrouds the character in mystery without giving too much away.
 
 [N]
 
