@@ -88,3 +88,39 @@ http://shakespeare.mit.edu/hamlet/full.html
 [35] Archaic form of "_perhaps_" and "_maybe_". "_Perchance_" was another candidate, but there have been to many times I couldn't deliver a good equivalent of the antique Hungarian word.
 
 [36] After finding the super old-fashioned "_belike_", "_pray_" sounded too common. The entire sentence will probably sound like [Joey's "aorta pump" speech](https://www.youtube.com/watch?v=LcM4zWiikKQ). Also, with the beginning of the sentence being so lofty, the contrast of the last clause really delivers.
+
+[N] "_Tömlő_" in this context means "_wineskin_", but "_skin_" can also be used to make it alcoholic drink-agnostic.
+
+[N] Decided to use a non-standard demonym for Gro-Ugon, which is the same as the name of the place.
+
+[N] "_Pálinka_" is a type of Hungarian fruit brandy with its own specific distillation process. Could've used "_brandy_", but this way it's more exotic, and I like that it refers to the Hungarian origins of the novel. Also, pálinka is not even close to brandy or vodka; when you try one, you'll know. (Was also thinking about using the phrase "_fence-ripper_", "_kerítésszaggató_" in Hungarian, but decided to put it off until the next time.)
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
+
+[N]
