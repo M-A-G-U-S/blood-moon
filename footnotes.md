@@ -101,9 +101,11 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [N] This was the hardest to translate so far because the original is beautifully written, shrouds the character in mystery without giving too much away.
 
-[N]
+[N] "_Dangerous my ass!_" would probably be the best, but didn't want to make it vulgar, as the original also wasn't. "_Még hogy_" is a phrase of disbelief (and/or dismissal?), but couldn't find the right one in English.
 
-[N]
+[N] Came across the [butterfly species called "silvery blue"](https://www.google.com/search?q=%22silvery+blue%22&sxsrf=ACYBGNSTraiNuifXVGo5Ao6h7h7i1FmwPw:1580063547290&source=lnms&sa=X&ved=0ahUKEwiFstWz86HnAhUVnZ4KHeNUB7MQ_AUIDSgA&biw=1478&bih=707&dpr=0.9) while looking for an English expression for the color "_ezüstkék_". Didn't use it, but the images of the butterflies are spot on, the way I imagined the moon exactly.
+
+[N]  "_Lidérc_" would be "_lich_" in fantasy literature, but this was meant figuratively here. Went with "_apparition_" for now.
 
 [N]
 

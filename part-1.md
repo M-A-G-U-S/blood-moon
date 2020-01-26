@@ -58,5 +58,8 @@ Scar-face's nape began to prickle but the feeling has passed before it truly sta
 
 The Hergolese gave up with a wave of his hand. The toff surely had his own brandy reserves, otherwise he wouldn't mistake the manase with a unicorn.
 
-"Git to rest!", he burst out in a raw growl. "I's gonna be a hard day tomorrow, and I ain't no baby-sitter to get your share!" The bard spun around without a word, started off wobbly steps
+"Git to rest!", he burst out in a raw growl. "I's gonna be a hard day tomorrow, and I ain't no baby-sitter to get your share!" The bard turned around without a word, started off back to the fire with wobbly steps. The assassin's eyes narrowed as they followed him go.Bah, magic powers! Dangerous, yeah right!<sup>N</sup> If that... He was still fuming when he finally - as the last one in the party - fell asleep. The silver sheen of the blue moon<sup>N</sup> was still brilliant, but already well towards the western horizon, dawn's faint glow getting brighter across when the bard opened his eyes. Shrouded in his dark cloak, he rose like an apparition<sup>N</sup>, his soundless steps would have done credit even to a manhunter. Not once did he stagger as he left behind the fire's weakly smouldering remains.
+
+sleepers
+
 
