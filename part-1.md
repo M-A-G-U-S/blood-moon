@@ -42,6 +42,13 @@ No one ever saw him play.
 
 The atmosphere under the ledge was peaceful this night: the booze-fuelled camaraderie was extended to the halfwit as well. The marauders were patting his back, kept shoving a skin<sup>N</sup> full of scraping<sup>N</sup> Gro-Ugon<sup>N</sup> pálinka<sup>N</sup> under his nose; in other words, he was being pampered in every possible way they knew.
 
-"The time is coming...", whispered the scar-faced assassin transcendently. He leaned forward, spat a gulp of spirit into the flames that reared up instantly, angry and high, but died down just as fast. He grabbed the musician while standing up, and dragged him atop the hill where the temple of Themes' worshippers, a place cursed a thousand times over, could be seen in full view.
+"The time's coming...", whispered the scar-faced assassin transcendently. He leaned forward, spat a gulp of spirit into the flames that reared up instantly, angry and high, but died down just as fast. He grabbed the musician standing up, and dragged him atop the hill where the temple of Themes' worshippers, a place cursed a thousand times over, could be seen in full view.
 
-"Hear me bard: by this time tomorrow we will be heading back from that hellish place... and we are going to be rich, very rich! Do you know what we'll do once we are back to Erion? Can you guess? I'll tell you: we rent out an entire whorehouse! I bet that the Daughter of Lotus will love you smooth, pretty kisser!
+"Hear me bard: by this time tomorrow we will be heading back from that hellish place... and we are going to be rich, very rich! Do you know what we'll do once we are back to Erion? Can you guess? I'll tell you: we rent out an entire whorehouse! I bet that the Daughter of Lotus will love your smooth, pretty kisser!
+
+The grey-eyed man grinned, perplexed, causing that certain nerve twitch once on his left cheek. The people around the fire howled, even though they couldn't possibly hear any of it.
+
+"We were talking about the manase", continued the killer in a confidential tone. "Some say it flies like a bird, others that it survives underwater, but it is not similar to a lion, but more akin to an octopus... What do you think, eh?"
+
+"Manase..." - echoed the bard, his orotund voice resonant with strange<sup>N</sup> strains.
+

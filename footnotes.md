@@ -95,7 +95,7 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [N] "_Pálinka_" is a type of Hungarian fruit brandy with its own specific distillation process. Could've used "_brandy_", but this way it's more exotic, and I like that it refers to the Hungarian origins of the novel. Also, pálinka is not even close to brandy or vodka; when you try one, you'll know. (Was also thinking about using the phrase "_fence-ripper_", "_kerítésszaggató_" in Hungarian, but decided to put it off until the next time.)
 
-[N]
+[N] Futottak még (i.e., were also in the ring): "_odd_", and "_peculiar_", but decided on "_strange_", mostly because of the alliteration.
 
 [N]
 
