@@ -58,8 +58,14 @@ Scar-face's nape began to prickle but the feeling has passed before it truly sta
 
 The Hergolese gave up with a wave of his hand. The toff surely had his own brandy reserves, otherwise he wouldn't mistake the manase with a unicorn.
 
-"Git to rest!", he burst out in a raw growl. "I's gonna be a hard day tomorrow, and I ain't no baby-sitter to get your share!" The bard turned around without a word, started off back to the fire with wobbly steps. The assassin's eyes narrowed as they followed him go.Bah, magic powers! Dangerous, yeah right!<sup>N</sup> If that... He was still fuming when he finally - as the last one in the party - fell asleep. The silver sheen of the blue moon<sup>N</sup> was still brilliant, but already well towards the western horizon, dawn's faint glow getting brighter across when the bard opened his eyes. Shrouded in his dark cloak, he rose like an apparition<sup>N</sup>, his soundless steps would have done credit even to a manhunter. Not once did he stagger as he left behind the fire's weakly smouldering remains.
+"Git to rest!", he burst out in a raw growl. "I's gonna be a hard day tomorrow, and I ain't no baby-sitter to get your share!" The bard turned around without a word, started off back to the fire with wobbly steps. The assassin's eyes narrowed as they followed him go.Bah, magic powers! Dangerous, yeah right!<sup>N</sup> If that... He was still fuming when he finally - as the last one in the party - fell asleep.
 
-sleepers
+The silver sheen of the blue moon<sup>N</sup> was still brilliant, but already well towards the western horizon, dawn's faint glow getting brighter across when the bard opened his eyes. Shrouded in his dark cloak, he rose like an apparition<sup>N</sup>, his soundless steps would have done credit even to a manhunter. Not once did he stagger as he left behind the fire's weakly smouldering remains. The sleepers in his path shuddered lightly, the animals tethered in a semi-circle on the other hand remained calm as if they knew: there is nothing to fear. The man ducked under the stretched-out ropes, fastened hastily at dusk, and stepped to an enormous white stallion that he laid his spare cape on its back - disregarding the banter meanwhile - when starting camp the night before. The horse raised its head seeing him approach, then, as an eerie, silent welcome, nodded once, twice, three times. The bard's right moved with hypnotic slowness, then rested it on the neck of his steed.
 
+Its dark eyes sparkled like minute replicas of the drape of stars enveloping the world of Ynev.
+beyond the veil
+
+minute replica sparkled in it dark eyes.
+
+The blue moon painted silver streaks on its hair, beneath muscles bulged as impressive as that of the the unicorns in the northern woodlands. The sparkling dark eyes resembledkjkk
 
