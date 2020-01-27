@@ -91,8 +91,6 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [N] "_Tömlő_" in this context means "_wineskin_", but "_skin_" can also be used to make it alcoholic drink-agnostic.
 
-[N] Decided to use a non-standard demonym for Gro-Ugon, which is the same as the name of the place.
-
 [N] "_Pálinka_" is a type of Hungarian fruit brandy with its own specific distillation process. Could've used "_brandy_", but this way it's more exotic, and I like that it refers to the Hungarian origins of the novel. Also, pálinka is not even close to brandy or vodka; when you try one, you'll know. (Was also thinking about using the phrase "_fence-ripper_", "_kerítésszaggató_" in Hungarian, but decided to put it off until the next time.)
 
 [N] Initially put "_orotund_", not "_sonorous_", because there is a character in this world called Sonor, but it has negative connotations, but the latter sounds cooler. In the end, abandoned both of them as the Hungarian original didn't only mentioned that his voice was rich (see next note), no mentions of pitch or other qualities.
@@ -107,11 +105,9 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [N]  "_Lidérc_" would be "_lich_" in fantasy literature, but this was meant figuratively here. Went with "_apparition_" for now.
 
-[N]
+[N] The first draft: "_this smile gave no hint of<sup>N</sup> insecurity, let alone weakness_". This may be more correct, but the Hungarian version sounds so much better ("_árnyéka sem kísértett a bizonytalanságnak_"), so gave it a shot.
 
-[N]
-
-[N]
+[N] Used "_their_" because I wasn't sure of Themes' gender. So much easier in Hungarian because the pronouns are gender-neutral, and their use is not even necessary most of the time.
 
 [N]
 
