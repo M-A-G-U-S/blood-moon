@@ -64,6 +64,9 @@ The silver sheen of the blue moon<sup>N</sup> was still brilliant, but already w
 
 "Almost over", whispered the bard into the stallion's ears, stroking it lovingly as one only would a spouse or a mistress. "Soon!"
 
-The sun grudgingly clambered upper and upper in the sky: Themes opened their scorching eyes onto the desert, the path of their<sup>N</sup>
+The sun grudgingly clambered higher in the sky: Themes opened their<sup>N</sup> scorching eyes unto the desert, the air rapidly heating up and starting to shimmer in the path of their gaze.
 
 
+rock formations
+hum
+Szél járt az apróbb-nagyobb sziklaalakzatok közt, zúgása azonban nem nyomta el az élök neszezését, sem a kövek reggeli dongását - ezt az ösidök óta ismert, különös hangot, melyben az egyszerű lelkek afféle himnuszt sejtettek.
