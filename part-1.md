@@ -66,7 +66,4 @@ The silver sheen of the blue moon<sup>N</sup> was still brilliant, but already w
 
 The sun grudgingly clambered higher in the sky: Themes opened their<sup>N</sup> scorching eyes unto the desert, the air rapidly heating up and starting to shimmer in the path of their gaze.
 
-
-rock formations
-hum
-Szél járt az apróbb-nagyobb sziklaalakzatok közt, zúgása azonban nem nyomta el az élök neszezését, sem a kövek reggeli dongását - ezt az ösidök óta ismert, különös hangot, melyben az egyszerű lelkek afféle himnuszt sejtettek.
+Wanton wind was swirling among the rock formations, its buzz neither able to drown out the stirring of the living nor the hum of the stones - that strange sound known to man since prehistoric times, gathered by simple souls to be a sort of hymn.
