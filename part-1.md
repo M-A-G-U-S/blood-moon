@@ -64,6 +64,13 @@ The silver sheen of the blue moon<sup>N</sup> was still brilliant, but already w
 
 "Almost over", whispered the bard into the stallion's ears, stroking it lovingly as one only would a spouse or a mistress. "Soon!"
 
-The sun grudgingly clambered higher in the sky: Themes opened their<sup>N</sup> scorching eyes unto the desert, the air rapidly heating up and starting to shimmer in the path of their gaze.
+The sun grudgingly clambered higher in the sky: Themes opened their<sup>N</sup> scorching eyes unto the desert, the air rapidly heating up and starting to shimmer in the path of their gaze. Wanton wind was swirling among the rock formations, its buzz neither able to drown out the stirring of the living nor the hum of the stones - that strange sound known to man since prehistoric times, gathered by simple souls to be a sort of hymn.
 
-Wanton wind was swirling among the rock formations, its buzz neither able to drown out the stirring of the living nor the hum of the stones - that strange sound known to man since prehistoric times, gathered by simple souls to be a sort of hymn.
+The shadows were still pointing long westward when the temple's massive, double gates opened, and from the darkness, it was the sungod's high priest emerged to properly greet his steadily rising master. He took three steps with a pious expression on his ageless, bronze face, then cast off his 
+
+moved on
+that turned
+golden strands
+
+Kortalan, bronzszínű arcán ájtatos kifejezéssel három lépést tett elöre, majd ledobta aranyszálakkal átszött köntösét, s két karját széttárva mély, torokhangú kántálásba kezdett. Ősi dallam volt ez, meglehet, ösibb még a kövek énekénél is, ösibb mindannál, amit e föld népei a magukénak ismertek. A generációkon át dúló háborúk alatt - ezek változtatták pusztasággá e hajdan zöldellö vidéket - e hangra más síkok teremtményei bukkantak fel, hogy gyözelemre segítsék Themes fiainak ügyét. A mezök azóta sivataggá változtak, ama nevezetes lények pedig kihaltak, netán elköltöztek; már csak a biztonságos távolban húzódó karavánutakat járó dzsadok - az ifjabb, feltörekvö emberfaj képviselöi - rémisztgetik egymást a vérfagyasztó kántálás hallatán, tudván tudva, hogy ott, ahonnét száll, változatlanul emberáldozatok zajlanak... A föpap kántált, ám nem volt szerencséje: a napból válasz gyanánt csupán nyílvesszök érkeztek dühödt surrogással, mellét, nyakát ütötték át, a legutolsó tágra nyílt szájába csapódott, s agyába hatolva tüstént megölte. Hanyatt zuhant a homokba, szeme vakon meredt a reggeli égboltra: egyetlen jel sem árulta el, de útban volt már istenéhez. A kalandorok szedett-vedett csapata a kapuhoz tódult.
+- Tüzet! - förmedt a boszorkánymesterre a hergoli, aki a falhoz lapulva kotorászott a zsákjában. Egykettöre elökerültek, az abasziszi intésére fellobbantak a fáklyák, tompán villantak a hüvelyükböl kiröppenö kardok.
