@@ -50,7 +50,7 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [17] "_orvtámadás_" means "_stealth attack_" with negative connotations, and it is the perfect phrase to use for an assassin, but "_taking it by surprise_" seemed a better choice.
 
-[18] Translated "_rongyos_" as raggedy, but what about "_An Arel priest, clothes in tatters,_".
+[18] Translated "_rongyos_" as raggedy, but what about "_An Arel priest, robe in tatters,_".
 
 [19] This almost sounds like a pun, but "_pointedly_" works both literally and figuratively. From the dictionary:
 > in a direct and unambiguous way, often indicating criticism or displeasure.
@@ -59,11 +59,7 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [21] Capitalized "_midnight_" because the original was too. Couldn't find the right equivalent for archaic "_Éjközép_", and the closest in meaning (and length) was "_midnight_", but it isn't even close in awesomeness.
 
-[22] "_sívóhomok_" is the archaic synonym for "_futóhomok_", which is "_quicksand_" in English. Again, couldn't find another version for it, but learned that ["quick" in "_quicksand_" supposed to mean "alive"](https://english.stackexchange.com/questions/62115/why-is-quicksand-named-so-if-you-get-sucked-in-so-slowly). Just adding the meaning of ["sívó"](https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-a-magyar-nyelv-ertelmezo-szotara-1BE8B/s-4893A/sivo-49758/) as well.
-
 [23] "_beezüstözni_" literally means "_to coat with silver_", but that wouldn't exactly work here, and couldn't come up with anything better at the moment.
-
-[24] "_Silence!_" would be more accurate here, but I believe "_Shut up!_" is more fitting to the character.
 
 [25] "_vigyorra ránduló ajakkal_" would best be translated with "_lips curling into grins_", but "_rándul_" means to "_twitch_", and I like that image of them nervously trying to smile (with their nerves are kind of shot anyway).
 
@@ -93,11 +89,17 @@ http://shakespeare.mit.edu/hamlet/full.html
 
 [N] "_Pálinka_" is a type of Hungarian fruit brandy with its own specific distillation process. Could've used "_brandy_", but this way it's more exotic, and I like that it refers to the Hungarian origins of the novel. Also, pálinka is not even close to brandy or vodka; when you try one, you'll know. (Was also thinking about using the phrase "_fence-ripper_", "_kerítésszaggató_" in Hungarian, but decided to put it off until the next time.)
 
+---
+
+"-Manase... - visszhangozta kulonos zengzetekben bovelkedo hangjan a bard."
+
 [N] Initially put "_orotund_", not "_sonorous_", because there is a character in this world called Sonor, but it has negative connotations, but the latter sounds cooler. In the end, abandoned both of them as the Hungarian original didn't only mentioned that his voice was rich (see next note), no mentions of pitch or other qualities.
 
 [N] Based on word meanings, "_eldritch_" or "_uncanny_" would have been the best fit but they are not neutral but more negative (or is this just me?).
 
 [N] This was the hardest to translate so far because the original is beautifully written, shrouds the character in mystery without giving too much away.
+
+---
 
 [N] "_Dangerous my ass!_" would probably be the best, but didn't want to make it vulgar, as the original also wasn't. "_Még hogy_" is a phrase of disbelief (and/or dismissal?), but couldn't find the right one in English.
 
